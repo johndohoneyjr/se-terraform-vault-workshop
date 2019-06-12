@@ -52,9 +52,9 @@ Introductions
 -------------------------
 <br><br><br>
 .contents[
-* John Dohoneyh, Jr.
+* John Dohoney, Jr.
 * Sr. Solutions Engineer
-* SME on Terraform, Used Ansible, Puppet, and Salt
+* Favorite Provisioning tool: Terraform
 * Favorite Text Editor: VS Code and VI
 ]
 
