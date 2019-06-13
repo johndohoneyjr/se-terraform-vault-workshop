@@ -27,10 +27,10 @@ Introductions
 -------------------------
 
 .contents[
-* Your Name
-* Job Title
-* Automation Experience
-* Favorite Text Editor
+* John Dohoney, Jr.
+* Sr. Solutions Engineer
+* Automation Experience: Terraform, Ansible, Puppet, and Salt
+* Favorite Text Editor: VS Code and VI
 ]
 
 ???
